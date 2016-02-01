@@ -1,2 +1,2 @@
 # CFPy
-A liteweight Cloud Foundry Python Client
+A lightweight Cloud Foundry Python Client
