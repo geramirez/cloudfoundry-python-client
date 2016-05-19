@@ -2,9 +2,9 @@ import time
 import requests
 import json
 
-from cloudfoundry.user import User
-from cloudfoundry.org import Org
-from cloudfoundry.security_group import SecurityGroup
+from .user import User
+from .org import Org
+from .security_group import SecurityGroup
 
 
 class Client:

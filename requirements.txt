@@ -1,0 +1,8 @@
+# Production
+requests==2.10.0
+
+# Dev
+mock==2.0.0
+pytest==2.9.1
+pytest-mock==0.11.0
+

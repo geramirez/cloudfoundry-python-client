@@ -1,6 +1,6 @@
 import json
 
-from cloudfoundry.space import Space
+from .space import Space
 
 
 class Org:

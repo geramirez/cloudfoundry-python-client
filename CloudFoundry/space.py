@@ -1,6 +1,6 @@
 import json
 
-from cloudfoundry.app import App
+from .app import App
 
 
 class Space:
